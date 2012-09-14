@@ -1,4 +1,7 @@
-package aula05;
+
+/* Instanciar três objetos da classe Pessoa 
+ * e imprimir os atributos33
+ */
 
 public class Principal {
 	public static void main(String[] args) {

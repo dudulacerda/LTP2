@@ -1,4 +1,8 @@
-package aula05;
+
+/* Criar um classe Pessoa com os atributos idade, altura e peso
+ * criar os métodos set/get para cada atributo.
+ */
+
 
 public class Pessoa {
 	
