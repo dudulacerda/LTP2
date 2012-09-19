@@ -1,0 +1,3 @@
+1 - Crie uma classe MostraArgs para mostrar na tela os argumentos numéricos que são pares passados pelo usuário através da linha de comando 
+2 - Agora crie um classe MostraArgs para mostrar na tela os argumentos numéricos da linha de comando que são impares. 
+3 - Agora crie um classe MostraArgs que mostre na tela ao mesmo tempo os números que são pares e os que os que são ímpares
