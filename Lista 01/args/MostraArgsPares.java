@@ -6,6 +6,7 @@ public class MostraArgsPares {
 	 * Recebe uma String, converte para inteiro e imprimi os 
 	 * nœmeros pares
 	 */
+	
 	public static void MostraArgs(String[] args){     
 		System.out.print("Pares: ");
 		for (int i=0; i<args.length; i++){
